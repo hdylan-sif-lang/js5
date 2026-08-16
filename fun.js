@@ -65,6 +65,6 @@ jugarAdivinanza("python");
 jugarAdivinanza("java");
 jugarAdivinanza("javascript");
 
-// PREGUNTA CURIOSA DE AZAR
+// PREGUNTA CURIOSA DE AZAR____
 let resultadoMoneda = Math.random() < 0.5 ? "Cara" : "Cruz";
 console.log("Resultado de la moneda: " + resultadoMoneda);
